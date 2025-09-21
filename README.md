@@ -59,13 +59,13 @@ New features are created to facilitate the analysis, such as:
 Here are some screenshots of the Power BI dashboard:
 
 ### Page 1
-![Page 1](Background/Page%201.png)
+![Page 1](https://github.com/LUCKYALI1/End-to-End-Sales-Analysis/blob/main/Dashboards/Screenshot%202025-09-21%20153753.png)
 
 ### Page 2
-![Page 2](Background/Page%202.png)
+![Page 2](https://github.com/LUCKYALI1/End-to-End-Sales-Analysis/blob/main/Dashboards/Screenshot%202025-09-21%20153811.png)
 
 ### Page 3
-![Page 3](Background/Page%203.png)
+![Page 3](https://github.com/LUCKYALI1/End-to-End-Sales-Analysis/blob/main/Dashboards/Screenshot%202025-09-21%20153823.png)
 
 ### Additional Image
 ![Additional Image](Background/1.jpg)
